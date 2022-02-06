@@ -1,2 +1,2 @@
-# arrows.svg
-Arrows in SVG
+# SVG arrow generator
+
